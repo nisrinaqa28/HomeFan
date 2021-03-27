@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HomeFan</string>
+    <string name="speed_controller">SPEED CONTROLLER</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="lights">LIGHTS</string>
+    <string name="speed">SPEED</string>
+    <string name="todo">TODO</string>
+</resources>
